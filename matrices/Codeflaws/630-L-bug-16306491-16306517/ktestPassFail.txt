@@ -1,0 +1,16 @@
+input-pos4-out/Dev-out-0/devtest.ktest 0
+input-pos3-out/Dev-out-0/devtest.ktest 0
+input-neg1-out/Dev-out-0/devtest.ktest 1
+heldout-input-pos5-out/Dev-out-0/devtest.ktest 1
+heldout-input-pos10-out/Dev-out-0/devtest.ktest 0
+heldout-input-pos8-out/Dev-out-0/devtest.ktest 1
+input-pos1-out/Dev-out-0/devtest.ktest 0
+heldout-input-pos2-out/Dev-out-0/devtest.ktest 0
+input-pos2-out/Dev-out-0/devtest.ktest 0
+heldout-input-pos6-out/Dev-out-0/devtest.ktest 0
+MFI_KLEE_TOPDIR_TEST_TEMPLATE.sh-out/klee-out-0/test000001.ktest 0
+heldout-input-pos4-out/Dev-out-0/devtest.ktest 0
+heldout-input-pos1-out/Dev-out-0/devtest.ktest 0
+heldout-input-pos3-out/Dev-out-0/devtest.ktest 0
+heldout-input-pos7-out/Dev-out-0/devtest.ktest 0
+heldout-input-pos9-out/Dev-out-0/devtest.ktest 0
